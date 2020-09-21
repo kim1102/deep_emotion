@@ -1,8 +1,6 @@
 # Emotion_recognition
 > Classify emotion for 2case: happy/neutral
 
-One to two paragraph statement about your product and what it does.
-
 ![test_img](./images/test_img.JPG)
 
 ## Installation
