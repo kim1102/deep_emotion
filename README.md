@@ -2,7 +2,7 @@
 > Classify emotion for 5case: 1.angry 2.happy 3.sad 4.surprise 5.neutral
 
 ![test_img](./images/test_img.JPG)
-![test_img2](./images/result_img.PNG)
+![test_img2](./images/result_img.png)
 
 ## Installation
 
